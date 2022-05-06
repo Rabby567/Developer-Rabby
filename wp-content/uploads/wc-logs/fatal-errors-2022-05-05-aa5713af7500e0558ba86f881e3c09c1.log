@@ -1,0 +1,4 @@
+2022-05-05T05:08:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\GitHub\wp-content\themes\astra\inc\builder\controllers\class-astra-builder-ui-controller.php on line 9
+
+2022-05-05T05:12:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\GitHub\wp-includes\Requests\Transport\cURL.php on line 462
+
